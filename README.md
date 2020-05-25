@@ -16,14 +16,14 @@ chmod +x execApp
 ```
 
 then run bash
-```bash./setEnv  ```
+``` ./setEnv  ```
 it create python3 venv and installing pakages  (requirements.txt)
 ### wait till docker  build mysql-service. when you will note message in cli 
 
 ### [Server] X Plugin ready for connections.
 
-then execute 
-```bash ./execApp  ```
+then execute bash
+``` ./execApp  ```
 
 input path "yellow_tripdata_2018-01Small.csv" file
 then provide output path
