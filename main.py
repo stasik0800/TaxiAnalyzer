@@ -4,7 +4,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-mysql_auth = {'host': '127.0.0.1:3306',  # using local host docker image
+mysql_auth = {'host': '127.0.0.1:3306',  # using local host docker image (if cannt connect change port to 3308)
               'user': 'root',
               'password': 'stasek123',
               'database': 'stas_db'}
