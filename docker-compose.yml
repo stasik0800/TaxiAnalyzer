@@ -11,12 +11,3 @@ services:
     security_opt:
       - seccomp:unconfined
 
-#  python_app:
-#    build: .
-#    depends_on:
-#      - "mysqldb"
-#    ports:
-#      - "50000:50000"
-#
-
-
