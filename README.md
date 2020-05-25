@@ -2,7 +2,7 @@
 
 This project have two components 
 1) Docker image mysql:8.0.17 db on localhost (127.0.0.1:3306)
-2) python service that gets path with csv file and generete 2 csv file with data based on output path
+2) Python service that gets path with csv file and generete 2 csv file with data based on output path
   * preLoad : taxi_zone_lookup.csv lookup table located in /Data .
     before user provide input path , python loaded lookup table and clean it.
 
