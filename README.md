@@ -5,7 +5,7 @@ This project have two components
 2) Python service that gets path with csv file and generete 2 csv file with data based on output path
   * preLoad : taxi_zone_lookup.csv lookup table located in /Data .
     before user provide input path , python loaded lookup table and clean it.
-  * csv uploaded to db with batch (default 100,000)
+  * csv uploaded to db with batch (default 100,000 ) 
 
 ## installation:
 
