@@ -36,7 +36,8 @@ then it will build mysql image and run it.
 when you will note message in cli [Server] X Plugin ready for connections.
 
 then execute 
-2)./execApp
+
+2) ./execApp
 input path "yellow_tripdata_2018-01Small.csv" file
 then provide output path
 
